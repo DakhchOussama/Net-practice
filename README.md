@@ -61,8 +61,6 @@ Think of it as the street name vs the street address. Say you live at 123 S. Elm
 
 When you have an IP address of 10.0.1.135 with a mask of 255.255.255.0, that means that your **network** is 10.0.1.0. That’s the street. Your **host** address is #135 on 10.0.1.0 street.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e802d93-a4aa-4780-b11b-f1a9eb0c88ef/Untitled.png)
-
 Subnet Mask : /30 ⇒ how many num 1 we have 11111111.1111111.11111111.11111100
 
 A subnet mask is a 32 bits (4 bytes) address used to distinguish between a network address and a host address in the IP address. It defines the range of IP addresses that can be used within a network or a subnet.
