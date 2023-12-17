@@ -64,4 +64,6 @@ A router connects multiple networks, with an interface for each connected networ
 2. 172.16.0.0 – 172.31.255.255 (1,048,576 addresses)
 3. 10.0.0.0 – 10.255.255.255 (16,777,216 addresses)
 
-For more information, visit [NetPractice on GitHub](https://github.com/lpaube/NetPractice).
+If you want more informations, send your email Notion to my Email:
+
+📧 oussamadakhch1999@gmail.com
